@@ -1,1 +1,4 @@
 confusion matrix: https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b 
+
+
+python ml youtube: https://www.youtube.com/watch?v=4c7oFu36d6k&list=PLJjOveEiVE4Dk48EI7I-67PEleEC5nxc3&index=1
